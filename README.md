@@ -13,3 +13,9 @@
 - [Chapter 11: Conclusion](http://bit.ly/theMLbook-Chapter-11)
 
 **Note**: The chapters are downloadable as PDFs but the contents are constantly updated by the author which is why the links. 
+
+## Data Visualization
+[DS Visualization](https://github.com/Zumh/Data_Visualization)
+
+## ML learning handson
+[ML Learning](https://github.com/Zumh/handson-ml3)
